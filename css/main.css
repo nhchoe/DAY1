@@ -1,0 +1,19 @@
+
+
+span.span_tap{
+    color:red;
+    visibility: hidden;
+
+    /* display:none; */
+}
+
+
+
+
+.animal{
+    color:red;
+}
+
+.animal:nth-child(1){
+    color:blue;
+}
